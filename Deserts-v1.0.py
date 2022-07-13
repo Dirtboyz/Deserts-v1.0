@@ -63,3 +63,17 @@ while True:
 
 
 	#Время для добавления ссылки на сайт и редактирования кода, вперед!
+
+
+
+
+
+
+
+
+
+#L:KJ:HBkjv;jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+#vxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\
+	#xvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxvxv
+	#vxxxxxxxxxxxxxxxxxxxxxxx
+	#vxxxxxxxxxxxxxxxxxxxxx#
