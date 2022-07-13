@@ -13,6 +13,7 @@ while True:
 	def rasch():
 		it = []
 		bl = input('Что будем готовить:\n')
+		kol = int(input('Количество к изготовлению:\n'))
 		if bl == 'зефир' or bl == '1':
 			for i in zefir:
 				zefir[i] = it.append(round(zefir[i] / 25 * kol, 2))
@@ -20,8 +21,6 @@ while True:
 			for i in truf:
 				truf[i] = it.append(round(truf[i] / 15 * kol, 2))
 			return (it)	
-		
-			
 					
 	x = rasch()
 	print('________________________________________________________\n')
@@ -58,3 +57,6 @@ while True:
 		print('Ликер (амаретто/бейлиз/куантро): ', r, 'ст.л.')
 		print('Какао для обваливания')
 		print('________________________________________________________\n')
+
+
+		#Fix bugs
